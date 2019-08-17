@@ -1,8 +1,8 @@
 ---
-title: "İrəli Data Science. Pandas Eval 1"
+title: "İrəli Data Science. Pandas Eval. Hissə 1"
 date: 2019-08-17
 tags: [python, pandas, advanced data science, numpy, eval, numexpr, hints]
-excerpt: "Pandas Eval sinfi və onun data science üçün istifadəsi 1."
+excerpt: "Pandas Eval sinfi və onun data science üçün istifadəsi. Hissə 1"
 ---
 Pandas öz çoxfunksionallığı ilə artıq nəinki Python istifadəçiləri arasında, habelə ümumən Data Science ekosistemində olan hamı tərəfindən tanınır. Bu dəfə, onun irəli funksiyalarından biri olan `pandas.eval` haqqında yazacağam.
 
