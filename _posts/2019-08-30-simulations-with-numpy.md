@@ -4,12 +4,12 @@ date: 2019-08-30
 tags: [python, pandas, advanced, data science, numpy, simulation, hints]
 excerpt: "Numpy ilə simulasiyaların icra olunması"
 ---
-Tarixən eksperimentlər və simulyasiyalar nəzəriyyələrin formalaşmasında və onların yoxlanılmasında böyük rola sahib olublar. Onların köməyi ilə biz:
+Tarixən eksperimentlər və simulasiyalar nəzəriyyələrin formalaşmasında və onların yoxlanılmasında böyük rola sahib olublar. Onların köməyi ilə biz:
 
  - nəzəriyyənin elmiliyini yoxlaya bilərik. Popper kriteriyasına görə, istənilən empirik sistemin eksperimental yolla təkzibedilmə xüsusiyyəti olmalıdır.
  - nəzəriyyələrin həqiqiliyinin təsdiq edə bilərik. Buna elmi dildə verifikasiya deyilir.
 
-Data science üçün də simulyasiyaların rolu olduqca böyükdür. Əsasən də müəllimli öyrətmə (supervised learning) zamanı simulyasiyalar ilə verilənlərdə olan çatışmazlıqları görə, tənzimləyə, və ya datanın az olduğu sahələrdə onu süni yolla artıraraq aradan qaldıra bilərsiniz.
+Data science üçün də simulasiyaların rolu olduqca böyükdür. Əsasən də müəllimli öyrətmə (supervised learning) zamanı simulasiyalar ilə verilənlərdə olan çatışmazlıqları görə, tənzimləyə, və ya datanın az olduğu sahələrdə onu süni yolla artıraraq aradan qaldıra bilərsiniz.
 
 Bu dəfəki məqaləmdə klassik zər atımını Python ilə simulyasiya edib nəticələri analiz edəcəyik.
 
