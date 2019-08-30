@@ -1,5 +1,5 @@
 ---
-title: "İrəli Data Science. Numpy ilə sumlasiyalar"
+title: "İrəli Data Science. Numpy ilə simulasiyalar"
 date: 2019-08-30
 tags: [python, pandas, advanced, data science, numpy, simulation, hints]
 excerpt: "Numpy ilə simulasiyaların icra olunması"
