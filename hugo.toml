@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Emil Mirzayev'
-theme = "github.com/adityatelange/hugo-PaperMod.git"
+theme = "paper"
