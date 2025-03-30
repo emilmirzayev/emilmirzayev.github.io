@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Choice Paralysis on Emil Mirzayev</title>
+    <link>http://localhost:1313/tags/choice-paralysis/</link>
+    <description>Recent content in Choice Paralysis on Emil Mirzayev</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/choice-paralysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommender systems and context effects (with ENG subtitles)</title>
+      <link>http://localhost:1313/interviews/recommender-systems-context-effects.html</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interviews/recommender-systems-context-effects.html</guid>
+      <description>Emil Mirzəyev discusses recommendation systems developed to help consumers navigate numerous choices and the impact of context effects on decision-making.</description>
+    </item>
+  </channel>
+</rss>
