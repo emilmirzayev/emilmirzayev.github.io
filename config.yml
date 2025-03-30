@@ -16,9 +16,6 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
         - name: Interviews
           url: interviews/
           weight: 4 
@@ -53,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Dr. Emil Mirzayev
-          subtitle: "Welcome to my personal website! I am a post-doctoral researcher at University College London School of Management.<br> <br> My research focuses on leveraging **generative AI**, particularly **large language models**, to enhance **strategic decision-making processes**. <br> <br> **I am on 2025/2026 job market**."
+          subtitle: "Welcome to my personal website! I am a post-doctoral researcher at Strategy and Entrepreneurship department at University College London School of Management.<br> <br> My research focuses on leveraging **generative AI**, particularly **large language models**, to enhance **strategic decision-making processes**. <br> <br> **I am on 2025/2026 job market**. <br> <br> Outside academia, I am a co-founder of the Azerbaijani Python User Group. I strongly support the availability of educational materials in the Azerbaijani language and, therefore, have given dozens of free webinars on the topics of Python, AI, and Data Science in Azerbaijani. <br> <br> When stepping away from research and community work, I enjoy engaging my mind with strategy games, reading sci-fi, cooking and very long walks. <br> <br>"
           imageUrl: "EmilProfilePicture.jpeg"
           imageWidth: 270
           imageHeight: 250
@@ -62,8 +59,6 @@ params:
               url: paper/JMP.html
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
             - name: Intreviews
               url: interviews/
 
@@ -93,6 +88,8 @@ params:
           url: https://github.com/emilmirzayev
         - name: Twitter
           url: https://x.com/MirzayevEmil
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/emilmirzayev/
 
     assets:
         disableScrollBarStyle: true
