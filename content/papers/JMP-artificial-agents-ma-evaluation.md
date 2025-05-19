@@ -1,5 +1,5 @@
 ---
-title: "Artificial Agents and the evaluation of M&As. **First round R&R at Management Science**" 
+title: "Artificial Agents and the evaluation of M&As.\n First round R&R at Management Science" 
 date: 2025-01-31
 url: /paper/JMP.html
 aliases: 
