@@ -6,7 +6,7 @@ aliases:
     - /Generative-AI-Evaluation-Strategic-Decisions.html
 tags: ["business models", "generative artificial intelligence", "generative AI", "large language models", "LLMs", "strategic decision making", "strategic decisions"]
 author: ["Anil Doshi", "Jason Bell", "Emil Mirzayev", "Bart Vanneste"]
-description: "Paper description for search engines (less than 155 characters)" 
+description: "Using aggregated GenAI evaluations for strategic decisions. LLM rankings align with experts when combined, aiding business model assessment." 
 summary: "Using aggregated GenAI evaluations for strategic decisions. LLM rankings align with experts when combined, aiding business model assessment."
 cover:
     # image: "/paper_figure.png"

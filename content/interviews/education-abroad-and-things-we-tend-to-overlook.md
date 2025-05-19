@@ -6,7 +6,7 @@ tags: ["education", "study abroad", "academic culture"]
 platform: "YouTube"
 language: "Azerbaijani"
 description: "Emil Mirzəyev discusses key differences between Azerbaijani and Western education systems and challenges students face when studying abroad."
-summary: "In this interview with Akinchji, I, Emil Mirzəyev, talk about studying abroad and the things students often forget to consider. I compare how education works in Azerbaijan (more group-focused) and Western countries (more individual-focused), like how teachers and students interact, how much students are encouraged to think critically, and what's expected for academic writing. I also give tips for dealing with study problems and picking dissertation topics."
+summary: "In this interview with Akinchi, I, Emil Mirzəyev, talk about studying abroad and the things students often forget to consider. I compare how education works in Azerbaijan (more group-focused) and Western countries (more individual-focused), like how teachers and students interact, how much students are encouraged to think critically, and what's expected for academic writing. I also give tips for dealing with study problems and picking dissertation topics."
 
 # Interview media
 video_url: "https://www.youtube.com/watch?v=5fwZ8XqnZfs"
