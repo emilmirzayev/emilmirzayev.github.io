@@ -4,12 +4,12 @@
     <title>Strategic Decision Making on Emil Mirzayev</title>
     <link>http://localhost:1313/tags/strategic-decision-making/</link>
     <description>Recent content in Strategic Decision Making on Emil Mirzayev</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/strategic-decision-making/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Artificial Agents and the evaluation of M&amp;As</title>
+      <title>Artificial Agents and the evaluation of M&amp;As. 1st round R&amp;R at Management Science</title>
       <link>http://localhost:1313/paper/JMP.html</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/paper/JMP.html</guid>
@@ -20,7 +20,7 @@
       <link>http://localhost:1313/paper/Generative-AI-Evaluation-Strategic-Decisions.html</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/paper/Generative-AI-Evaluation-Strategic-Decisions.html</guid>
-      <description>Paper description for search engines (less than 155 characters)</description>
+      <description>Using aggregated GenAI evaluations for strategic decisions. LLM rankings align with experts when combined, aiding business model assessment.</description>
     </item>
   </channel>
 </rss>

@@ -51,7 +51,7 @@ params:
     profileMode:
           enabled: true
           title: Dr. Emil Mirzayev
-          subtitle: "Welcome to my personal website! I am a post-doctoral researcher at Strategy and Entrepreneurship group at University College London School of Management.<br> <br> My research focuses on leveraging **generative AI**, particularly **large language models**, to enhance **strategic decision-making processes**. <br> <br> **I am on 2025/2026 job market**. <br> <br> Outside academia, I am a co-founder of the Azerbaijani Python User Group. I strongly support the availability of educational materials in the Azerbaijani language and, therefore, have given dozens of free webinars on the topics of Python, AI, and Data Science in Azerbaijani. <br> <br> When stepping away from research and community work, I enjoy engaging my mind with strategy games, reading sci-fi, cooking and very long walks. <br> <br>"
+          subtitle: "Welcome to my personal website! I am a post-doctoral researcher at Strategy and Entrepreneurship group at University College London School of Management.<br> <br> My research focuses on leveraging **generative AI**, particularly **large language models**, to enhance **strategic decision-making processes**. <br> <br> **I am on 2025/2026 job market**.<br> <br> My JMP titled **Artificial Agents and the evaluation of M&As** is 1st round **R&R** at **Management Science**. Check [**_here_**](/paper/JMP.html) the available version. <br> <br> Outside academia, I am a **co-founder** of the Azerbaijani Python User Group (AZEPUG). I strongly support the availability of educational materials in Azerbaijani language and, therefore, have given dozens of free webinars on the topics of Python, AI, and Data Science in Azerbaijani. <br> <br> When stepping away from research and community work, I enjoy engaging my mind with strategy games, reading sci-fi, cooking and very long walks. <br> <br>"
           imageUrl: "EMprofilePicture2.JPG"
           imageWidth: 270
           imageHeight: 250
@@ -85,8 +85,10 @@ params:
         #   url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=5B197WgAAAAJ&hl=en
-        - name: GitHub
-          url: https://github.com/emilmirzayev
+        # - name: GitHub
+        #   url: https://github.com/emilmirzayev
+        - name: orcid
+          url: https://orcid.org/0009-0007-5376-8469
         - name: Twitter
           url: https://x.com/MirzayevEmil
         - name: LinkedIn

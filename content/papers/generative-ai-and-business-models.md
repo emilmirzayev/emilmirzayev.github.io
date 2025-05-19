@@ -14,7 +14,7 @@ cover:
     # relative: false
 editPost:
     URL: "https://onlinelibrary.wiley.com/doi/10.1002/smj.3677"
-    Text: "Strategic Management Journal"
+    Text: "Strategic Management Journal, 46(3), 583–610"
 
 ---
 
