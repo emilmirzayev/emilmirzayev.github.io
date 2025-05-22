@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generative artificial intelligence and evaluating strategic decisions</title>
-      <link>http://localhost:1313/paper/Generative-AI-Evaluation-Strategic-Decisions.html</link>
+      <link>http://localhost:1313/research/Generative-AI-Evaluation-Strategic-Decisions.html</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/paper/Generative-AI-Evaluation-Strategic-Decisions.html</guid>
+      <guid>http://localhost:1313/research/Generative-AI-Evaluation-Strategic-Decisions.html</guid>
       <description>Using aggregated GenAI evaluations for strategic decisions. LLM rankings align with experts when combined, aiding business model assessment.</description>
     </item>
   </channel>

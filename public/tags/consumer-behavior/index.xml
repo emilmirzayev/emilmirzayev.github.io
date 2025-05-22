@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/consumer-behavior/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recommender systems and context effects (with ENG subtitles)</title>
-      <link>http://localhost:1313/interviews/recommender-systems-context-effects.html</link>
+      <link>http://localhost:1313/talks/recommender-systems-context-effects.html</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/interviews/recommender-systems-context-effects.html</guid>
+      <guid>http://localhost:1313/talks/recommender-systems-context-effects.html</guid>
       <description>Emil Mirzəyev discusses recommendation systems developed to help consumers navigate numerous choices and the impact of context effects on decision-making.</description>
     </item>
   </channel>

@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/location/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/artificial-agents/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paper/JMP.html</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/research/JMP.html</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/generative-ai/</loc>
@@ -23,7 +26,7 @@
     <loc>http://localhost:1313/tags/ma/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/strategic-decision-making/</loc>
@@ -38,7 +41,7 @@
     <loc>http://localhost:1313/tags/generative-artificial-intelligence/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paper/Generative-AI-Evaluation-Strategic-Decisions.html</loc>
+    <loc>http://localhost:1313/research/Generative-AI-Evaluation-Strategic-Decisions.html</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/large-language-models/</loc>
@@ -47,32 +50,44 @@
     <loc>http://localhost:1313/tags/strategic-decisions/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/behavioral-decision-making/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/choice-modeling/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/choice-modeling.html</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/context-effects/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/observational-data/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/academic-culture/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/education/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/interviews/</loc>
-    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/study-abroad/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/interviews/education-abroad-and-things-we-tend-to-overlook.html</loc>
+    <loc>http://localhost:1313/talks/education-abroad-and-things-we-tend-to-overlook.html</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/interviews/generative-ai-and-productivity.html</loc>
+    <loc>http://localhost:1313/talks/generative-ai-and-productivity.html</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/productivity/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/location/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
@@ -83,16 +98,13 @@
     <loc>http://localhost:1313/tags/consumer-behavior/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/context-effects/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/marketing/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/recommendation-systems/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/interviews/recommender-systems-context-effects.html</loc>
+    <loc>http://localhost:1313/talks/recommender-systems-context-effects.html</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>

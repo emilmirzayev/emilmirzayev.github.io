@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Studying abroad and overlooked issues (with ENG subtitles)</title>
-      <link>http://localhost:1313/interviews/education-abroad-and-things-we-tend-to-overlook.html</link>
+      <link>http://localhost:1313/talks/education-abroad-and-things-we-tend-to-overlook.html</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/interviews/education-abroad-and-things-we-tend-to-overlook.html</guid>
+      <guid>http://localhost:1313/talks/education-abroad-and-things-we-tend-to-overlook.html</guid>
       <description>Emil Mirzəyev discusses key differences between Azerbaijani and Western education systems and challenges students face when studying abroad.</description>
     </item>
   </channel>

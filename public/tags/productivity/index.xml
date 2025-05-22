@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generative AI and productivity (with ENG subtitles)</title>
-      <link>http://localhost:1313/interviews/generative-ai-and-productivity.html</link>
+      <link>http://localhost:1313/talks/generative-ai-and-productivity.html</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/interviews/generative-ai-and-productivity.html</guid>
+      <guid>http://localhost:1313/talks/generative-ai-and-productivity.html</guid>
       <description>Emil Mirzayev discusses generative AI models, their ability to create content, impact on productivity (up to 40% for skilled workers), economic effects, and potential risks.</description>
     </item>
   </channel>

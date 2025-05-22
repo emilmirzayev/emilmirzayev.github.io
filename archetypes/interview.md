@@ -1,6 +1,6 @@
 ---
 title: "Title of the interview" 
-date: "Date"
+date: "2012-06-01"
 url: /interviews/{{ .File.ContentBaseName }}.html
 tags: ["tag1", "tag2"]
 platform: ""  # e.g., "YouTube", "LinkedIn", "Twitter Spaces"

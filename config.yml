@@ -13,11 +13,11 @@ menu:
         # - name: Books
         #   url: books/
         #   weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 2
-        - name: Interviews
-          url: interviews/
+        - name: Talks
+          url: talks/
           weight: 4 
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
@@ -39,7 +39,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","courses", "interviews"]
+    MainSections: ["research","courses", "talks"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -50,18 +50,18 @@ params:
     ignoreLogs: ['warning-partial-superfluous-prefix']
     profileMode:
           enabled: true
-          title: Dr. Emil Mirzayev
-          subtitle: "Welcome to my personal website! I am a post-doctoral researcher at Strategy and Entrepreneurship group at University College London School of Management.<br> <br> My research focuses on leveraging **generative AI**, particularly **large language models**, to enhance **strategic decision-making processes**. <br> <br> **I am on 2025/2026 job market**.<br> <br> My JMP titled **Artificial Agents and the evaluation of M&As** is 1st round **R&R** at **Management Science**. Check [**_here_**](/paper/JMP.html) the available version. <br> <br> Outside academia, I am a **co-founder** of the Azerbaijani Python User Group (AZEPUG). I strongly support the availability of educational materials in Azerbaijani language and, therefore, have given dozens of free webinars on the topics of Python, AI, and Data Science in Azerbaijani. <br> <br> When stepping away from research and community work, I enjoy engaging my mind with strategy games, reading sci-fi, cooking and very long walks. <br> <br>"
+          title: Dr Emil Mirzayev
+          subtitle: "Welcome to my personal website! <br><br>I am a post-doctoral researcher at Strategy and Entrepreneurship group at University College London School of Management.<br> <br> My research focuses on leveraging **generative AI**, particularly **large language models**, to enhance **strategic decision-making processes**. <br> <br> **I am on 2025/2026 job market**.<br> <br> My JMP titled **Artificial Agents and the evaluation of M&As** is 1st round **R&R** at **Management Science**. Check [**_here_**](/jmp.pdf) the available version. <br><br><br><br>Outside academia, I am a **co-founder** of the Azerbaijani Python User Group (AZEPUG). I strongly support the availability of educational materials in Azerbaijani language and, therefore, have given dozens (some of them [_here_](https://www.youtube.com/@emirzayev)) of free webinars on the topics of Python, AI, and Data Science in Azerbaijani. <br> <br> When stepping away from research and community work, I enjoy engaging my mind with strategy games, reading sci-fi, cooking and very long walks. <br> <br>"
           imageUrl: "EMprofilePicture2.JPG"
           imageWidth: 270
           imageHeight: 250
           buttons:
             - name: Job Market Paper
-              url: paper/JMP.html
-            - name: Papers
-              url: papers/
-            - name: Intreviews
-              url: interviews/
+              url: jmp.pdf
+            - name: Research
+              url: /research
+            - name: Talks
+              url: talks/
 
             # - name: Books
             #   url: books/
@@ -76,11 +76,11 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:emilbmirzayev@gmail.com
+          url: mailto:e.mirzayev@ucl.ac.uk
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
-        # - name: Location
-        #   url: location/
+        - name: Location
+          url: location/
         # - name: Office Hours
         #   url: officehours/
         - name: Google Scholar

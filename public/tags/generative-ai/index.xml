@@ -9,24 +9,24 @@
     <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/generative-ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Artificial Agents and the evaluation of M&amp;As. 1st round R&amp;R at Management Science</title>
-      <link>http://localhost:1313/paper/JMP.html</link>
+      <title>Artificial Agents and the evaluation of M&amp;As</title>
+      <link>http://localhost:1313/research/JMP.html</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/paper/JMP.html</guid>
+      <guid>http://localhost:1313/research/JMP.html</guid>
       <description>AI agents for M&amp;amp;A evaluation: Study finds multi-agent LLMs can differentiate value-creating vs. value-destroying deals, aiding strategic decisions</description>
     </item>
     <item>
       <title>Generative artificial intelligence and evaluating strategic decisions</title>
-      <link>http://localhost:1313/paper/Generative-AI-Evaluation-Strategic-Decisions.html</link>
+      <link>http://localhost:1313/research/Generative-AI-Evaluation-Strategic-Decisions.html</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/paper/Generative-AI-Evaluation-Strategic-Decisions.html</guid>
+      <guid>http://localhost:1313/research/Generative-AI-Evaluation-Strategic-Decisions.html</guid>
       <description>Using aggregated GenAI evaluations for strategic decisions. LLM rankings align with experts when combined, aiding business model assessment.</description>
     </item>
     <item>
       <title>Generative AI and productivity (with ENG subtitles)</title>
-      <link>http://localhost:1313/interviews/generative-ai-and-productivity.html</link>
+      <link>http://localhost:1313/talks/generative-ai-and-productivity.html</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/interviews/generative-ai-and-productivity.html</guid>
+      <guid>http://localhost:1313/talks/generative-ai-and-productivity.html</guid>
       <description>Emil Mirzayev discusses generative AI models, their ability to create content, impact on productivity (up to 40% for skilled workers), economic effects, and potential risks.</description>
     </item>
   </channel>

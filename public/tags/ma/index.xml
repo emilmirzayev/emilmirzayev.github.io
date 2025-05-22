@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ma/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Artificial Agents and the evaluation of M&amp;As. 1st round R&amp;R at Management Science</title>
-      <link>http://localhost:1313/paper/JMP.html</link>
+      <title>Artificial Agents and the evaluation of M&amp;As</title>
+      <link>http://localhost:1313/research/JMP.html</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/paper/JMP.html</guid>
+      <guid>http://localhost:1313/research/JMP.html</guid>
       <description>AI agents for M&amp;amp;A evaluation: Study finds multi-agent LLMs can differentiate value-creating vs. value-destroying deals, aiding strategic decisions</description>
     </item>
   </channel>
