@@ -1,4 +1,4 @@
-baseURL: "https://emilmirzayev.github.io" 
+baseURL: "https://emilmirzayev2.github.io" 
 title: Emil Mirzayev
 theme: PaperMod
 
@@ -58,10 +58,12 @@ params:
           buttons:
             - name: Job Market Paper
               url: jmp.pdf
-            - name: Research
-              url: /research
-            - name: Talks
-              url: talks/
+            # - name: Research
+            #   url: /research
+            # - name: Talks
+            #   url: talks/
+            - name: CV
+              url: cvEM.pdf
 
             # - name: Books
             #   url: books/
@@ -73,8 +75,8 @@ params:
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        # - name: CV
+        #   url: cv.pdf
         - name: Email
           url: mailto:e.mirzayev@ucl.ac.uk
         # - name: Zoom
