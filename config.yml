@@ -63,7 +63,7 @@ params:
             # - name: Talks
             #   url: talks/
             - name: CV
-              url: https://drive.google.com/file/d/1cl4FY7GfYM8iXBM9IhbzAkWEsSSlmjkB/view?usp=drive_link
+              url: https://drive.google.com/file/d/1cl4FY7GfYM8iXBM9IhbzAkWEsSSlmjkB/view?usp=sharing
 
             # - name: Books
             #   url: books/
